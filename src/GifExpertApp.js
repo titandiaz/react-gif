@@ -3,7 +3,7 @@ import { AddCategory } from "./components/AddCategory";
 import { GifGrid } from "./components/GifGrid";
 
 export const GifExpertApp = () => {
-  const [categories, setCategories] = useState(["One push"]);
+  const [categories, setCategories] = useState(["One punch"]);
   return (
     <div className="p-6">
       <h2 className="text-2xl font-bold">GifExpertApp</h2>
